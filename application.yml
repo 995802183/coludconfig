@@ -1,3 +1,13 @@
 server:
   port: 7600
 name: 123
+spring:
+  application:
+    name: c-config-client
+
+eureka:
+  instance:
+    appname: c-config-client
+  client:
+    service-url:
+      defaultZone: http://localhost:9000/eureka
