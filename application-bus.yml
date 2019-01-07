@@ -1,7 +1,7 @@
 name: 1234-wangyongwen
 spring:
   application:
-    name: c-config-client
+    name: c-bus-kafka
 server:
-  port: 7600
+  port: 8600
 
