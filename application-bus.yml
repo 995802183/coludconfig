@@ -1,4 +1,4 @@
-name: 1234-wangyongwen-1234
+name: 1234-wangyongwen-1234-wangyongwen
 spring:
   application:
     name: c-bus-kafka
